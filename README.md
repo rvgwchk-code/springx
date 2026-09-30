@@ -9,7 +9,8 @@ A document search and research workspace with a Spring Boot API and a React + Vi
 
 ## Local development
 UI:
-![alt text](springx-1.png)
+SpringX 
+https://github.com/rvgwchk-code/springx/blob/main/springx.png
 
 Backend:
 
