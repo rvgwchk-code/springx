@@ -8,6 +8,8 @@ A document search and research workspace with a Spring Boot API and a React + Vi
 - `services/web` – React + TypeScript + Fluent UI client
 
 ## Local development
+UI:
+![alt text](springx-1.png)
 
 Backend:
 
